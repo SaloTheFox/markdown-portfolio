@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+Daniel Solorzano
+
+#IM LEARNING STUFF IN GITHUB
+
+Efevtively, I decided to join Github
